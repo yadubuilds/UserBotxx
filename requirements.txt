@@ -1,0 +1,11 @@
+pyrofork
+tgcrypto
+dnspython
+motor
+pymongo 
+apscheduler==3.10.4
+requests==2.32.3
+bs4==0.0.1
+psutil
+pytz
+reportlab
